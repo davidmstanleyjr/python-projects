@@ -27,3 +27,4 @@ var1 = 25
 print(var1);
 print("chicken")
 print(2+5*3+2)
+print(False)
