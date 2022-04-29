@@ -28,3 +28,18 @@ print(var1);
 print("chicken")
 print(2+5*3+2)
 print(False)
+
+
+# strings
+
+ex_1 = "This is a string"
+ex_2 = "orange"
+print(ex_2[2])
+print("apple"[4])
+
+print ("pecan" + " " + "pie")
+
+concatenated = "R2" + "-" + "D2"
+print(concatenated)
+print(concatenated[3])
+print(concatenated[1:4])
